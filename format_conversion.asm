@@ -1,6 +1,6 @@
 #######################################################################################################################
-# File Name		: pgm_2.asm
-# Author		: Srimanth Yarlagadda (sxy190038@utdallas.edu)
+# File Name		: format_conversion.asm
+# Author		: Srimanth Yarlagadda
 # Modification History	: Last modified on 10/18/2021. First development.
 # Procedures		:
 # main			: Read data from file, filename input by user, generate statistics for characters in data
@@ -10,7 +10,7 @@
 
 #############################################################################################################################
 # main
-# Author		: Srimanth Yarlagadda (sxy190038@utdallas.edu)
+# Author		: Srimanth Yarlagadda
 # Modification History	: Last modified on 10/18/2021. First development.
 # Description		: Prompt user to enter filename, read and loop through data, summarize and print statistics of data
 # Arguments		: None
